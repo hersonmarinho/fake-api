@@ -4,25 +4,25 @@
     "id": 1,
     "name": "Herson Marinho ",
     "functionality": "ADMIN",
-    "activedFlag": 1,
+    "activedFlag": 1
   },
   {
     "id": 2,
     "name": "Teste nome",
     "functionality": "USER",
-    "activedFlag": 1,
+    "activedFlag": 1
   },
   {
     "id": 3,
     "name": "HTeste Outro Nome",
     "functionality": "USER",
-    "activedFlag": 1,
+    "activedFlag": 1
   },
   {
     "id": 4,
     "name": "Teste Nome Quatro",
     "functionality": "USER",
-    "activedFlag": 1,
+    "activedFlag": 1
   }
   ]
 }
