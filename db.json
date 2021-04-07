@@ -1,5 +1,7 @@
 {  
-"teste": {
-  "nome": "valor"
-}
+"profiles": [
+  {"id": 1, "name": "herson marinho", "functionality": "ADMIN", "activedFlag": 1 },
+  {"id": 1, "name": "nome dois", "functionality": "USER", "activedFlag": 1 },
+  {"id": 1, "name": "nome tres", "functionality": "USER", "activedFlag": 1 }
+]
 }
