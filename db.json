@@ -1,7 +1,3 @@
 {  
-"perfis": [
-  {"id": 1, "resposta": "APOLICE EMITIDA"},
-  {"id": 2, "name": "nome dois", "functionality": "USER", "activedFlag": 1 },
-  {"id": 3, "name": "nome tres", "functionality": "USER", "activedFlag": 1 }
-]
+
 }
