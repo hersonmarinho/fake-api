@@ -7,5 +7,9 @@
 "funcionality": [
   {"id": 1, "nomeFuncionalidade": "ADMIN"},
   {"id": 2, "nomeFuncionalidade": "USER"}
-]
+],
+"login": [
+  {"username": "hmarinho", "password": "123"},
+  {"username": "teste", "password": "123"},
+  {"username": "gasantos", "password": "123"}
 }
