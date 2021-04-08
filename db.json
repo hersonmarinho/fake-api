@@ -5,7 +5,7 @@
   {"id": 1, "name": "nome tres", "username": "nometres", "password": "123", "functionality": "USER", "activedFlag": 1 }
 ],
 "funcionality": [
-  {"nomeFuncionalidade": "ADMIN"},
-  {"nomeFuncionalidade": "USER"}
+  {"id": 1, "nomeFuncionalidade": "ADMIN"},
+  {"id": 2, "nomeFuncionalidade": "USER"}
 ]
 }
