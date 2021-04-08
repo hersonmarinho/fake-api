@@ -9,8 +9,8 @@
   {"id": 2, "nomeFuncionalidade": "USER"}
 ],
 "login": [
-  {"username": "hmarinho", "password": "123"},
-  {"username": "teste", "password": "123"},
-  {"username": "gasantos", "password": "123"}
+  {"username": "hmarinho", "password": "123", "activedFlag": 1},
+  {"username": "teste", "password": "123", "activedFlag": 0},
+  {"username": "gasantos", "password": "123", "activedFlag": 1}
   ]
 }
