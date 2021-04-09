@@ -1,17 +1,25 @@
 {  
 "perfis": [
-  {"id": 1, "name": "herson marinho", "username": "hmarinho", "password": "123", "functionality": "ADMIN", "activedFlag": 1 },
-  {"id": 2, "name": "gervasio junior", "username": "gasantos", "password": "123", "functionality": "ADMIN", "activedFlag": 1 },
-  {"id": 3, "name": "nome dois", "username": "nomedois", "password": "123", "functionality": "ADMIN", "activedFlag": 1 },
-  {"id": 4, "name": "nome tres", "username": "nometres", "password": "123", "functionality": "USER", "activedFlag": 1 }
+  {"id": 1, "name": "herson marinho", "username": "hmarinho", "password": "123",
+   "functionality": "ADMIN", "activedFlag": 1, "dateLastAccess": "09/04/2021", "isBlocked": 1, "isAdministrator": 1 },
+  
+  {"id": 2, "name": "gervasio junior", "username": "gasantos", "password": "123",
+   "functionality": "ADMIN", "activedFlag": 1, "dateLastAccess": "09/04/2021", "isBlocked": 1, "isAdministrator": 1 },
+  
+  {"id": 3, "name": "nome dois", "username": "nomedois", "password": "123",
+   "functionality": "USER", "activedFlag": 1, "dateLastAccess": "09/04/2021", "isBlocked": 1, "isAdministrator": 0},
+  
+  {"id": 4, "name": "nome tres", "username": "nometres", "password": "123",
+   "functionality": "USER", "activedFlag": 1, "dateLastAccess": "09/04/2021", "isBlocked": 1, "isAdministrator": 0}
 ],
 "funcionality": [
   {"id": 1, "nomeFuncionalidade": "ADMIN"},
   {"id": 2, "nomeFuncionalidade": "USER"}
 ],
 "login": [
-  {"username": "hmarinho", "password": "123", "activedFlag": 1},
-  {"username": "teste", "password": "123", "activedFlag": 0},
-  {"username": "gasantos", "password": "123", "activedFlag": 1}
+  {"username": "hmarinho", "password": "123", "isAdministrator": 1},
+  {"username": "nomedois", "password": "123", "isAdministrator": 0},
+  {"username": "gasantos", "password": "123", "isAdministrator": 1},
+  {"username": "nometres", "password": "123", "isAdministrator": 0}
   ]
 }
