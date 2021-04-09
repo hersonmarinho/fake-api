@@ -29,4 +29,5 @@
   {"id": 4, "name": "nome tres", "username": "nometres", "password": "123",
    "functionality": "USER", "activedFlag": 1, "dateLastAccess": "09/04/2021", "isBlocked": 1, "isAdministrator": 0}
   ]
+  
 }
