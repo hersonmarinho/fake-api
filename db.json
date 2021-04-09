@@ -2,7 +2,7 @@
 "perfis": [
   {"id": 1, "name": "herson marinho", "username": "hmarinho", "password": "123", "functionality": "ADMIN", "activedFlag": 1 },
   {"id": 2, "name": "gervasio junior", "username": "gasantos", "password": "123", "functionality": "ADMIN", "activedFlag": 1 },
-  {"id": 3, "name": "nome dois", "username": "nomedois", "password": "123", "functionality": "USER", "activedFlag": 1 },
+  {"id": 3, "name": "nome dois", "username": "nomedois", "password": "123", "functionality": "ADMIN", "activedFlag": 1 },
   {"id": 4, "name": "nome tres", "username": "nometres", "password": "123", "functionality": "USER", "activedFlag": 1 }
 ],
 "funcionality": [
