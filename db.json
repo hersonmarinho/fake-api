@@ -17,9 +17,9 @@
   {"id": 2, "nomeFuncionalidade": "USER"}
 ],
 "login": [
-  {"username": "hmarinho", "password": "123", "isAdministrator": 1, "dateLastAccess": "09/04/2021"},
-  {"username": "nomedois", "password": "123", "isAdministrator": 0, "dateLastAccess": "09/04/2021"},
-  {"username": "gasantos", "password": "123", "isAdministrator": 1, "dateLastAccess": "09/04/2021"},
-  {"username": "nometres", "password": "123", "isAdministrator": 0, "dateLastAccess": "09/04/2021"}
+  {"username": "hmarinho", "password": "123", "isAdministrator": 1},
+  {"username": "nomedois", "password": "123", "isAdministrator": 0},
+  {"username": "gasantos", "password": "123", "isAdministrator": 1},
+  {"username": "nometres", "password": "123", "isAdministrator": 0}
   ]
 }
