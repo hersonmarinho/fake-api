@@ -28,6 +28,19 @@
   
   {"id": 4, "name": "nome tres", "username": "nometres", "password": "123",
    "activedFlag": 1, "dateLastAccess": "09/04/2021", "isBlocked": 0, "userProfile": 2, "passwordProv": 1}
+  ],
+ "reset": [
+  {"id": 1, "name": "herson marinho", "username": "hmarinho", "password": "123",
+   "activedFlag": 1, "dateLastAccess": "09/04/2021", "isBlocked": 0, "userProfile": 1, "passwordProv": 0},
+  
+  {"id": 2, "name": "gervasio junior", "username": "gasantos", "password": "123",
+   "activedFlag": 1, "dateLastAccess": "09/04/2021", "isBlocked": 0, "userProfile": 1, "passwordProv": 0},
+  
+  {"id": 3, "name": "nome dois", "username": "nomedois", "password": "123",
+   "activedFlag": 1, "dateLastAccess": "09/04/2021", "isBlocked": 0, "userProfile": 0, "passwordProv": 0},
+  
+  {"id": 4, "name": "nome tres", "username": "nometres", "password": "123",
+   "activedFlag": 1, "dateLastAccess": "09/04/2021", "isBlocked": 0, "userProfile": 2, "passwordProv": 1}
   ]
   
 }
